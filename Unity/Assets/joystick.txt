@@ -1,0 +1,5 @@
+Joystick -> Gamemode -> Schräg halten mit Analog Stick nach Links -> 
+	KeyCode.JoystickButton0 = unterer Button -> aka "space" -> _prodMode
+	KeyCode.JoystickButton1 = rechter Button -> nicht belegt
+	KeyCode.JoystickButton2 = linker Button  -> zoom in
+	KeyCode.JoystickButton3 = oberer Button  -> zoom out
